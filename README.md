@@ -2,7 +2,7 @@
 Tool for using the MIFARE Classic Super Gen2 sniffer card with Libnfc (without using Proxmark3 or smartphone app).  
 I am referring to the cards described [here](https://github.com/RfidResearchGroup/proxmark3/blob/master/doc/magic_cards_notes.md#mifare-classic-super) in the **MIFARE Classic Super Gen2** paragraph.
 
-The source code is based on [this](https://github.com/netscylla/super-card) repository (the code was for the "old" super card) and the code found on the Proxmark3 repository (for the key extraction part).  
+The source code is based on [this](https://github.com/netscylla/super-card) repository (the code was for the "old" super card) and the code found on the Iceman Proxmark3 repository (for the key extraction part).  
 The cards can be purchased [here](https://sneaktechnology.com/product/super-sniffer-card-1k-4k-4-byte-7-byte/) or [here](https://aliexpress.com/item/1005004796094277.html) (these are just an example and i am not affiliated with the shops listed).
 
 The code has been successfully tested with PN532 and ARC122U.
